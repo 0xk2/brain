@@ -1,0 +1,57 @@
+---
+{"dg-publish":true,"permalink":"/bucket-list/"}
+---
+
+I always think of life as a collection of experiences which many throw at us randomly and some we deliberately choose. This list is how I choose to seize my life instead of letting it float.
+
+- [x] Study Master or Phd
+- [x] Marriage and kids
+- [x] Do something I should regret
+- [ ] Own more than 1 million USD
+- [ ] Own a beetle car
+- [ ] Own a truck
+- [ ] Build & decorate a house
+- [ ] Build a home workshop/lab on science
+- [ ] Found a boutique coffee shop
+- [ ] Has more than one nationality
+- [ ] Live and work in a Silicon Valley startup for at least six months
+- [ ] Speak in a public event for more than a million people
+- [ ] Visit the building that sprouted Google & Yahoo
+- [ ] Visit Taj Mahal
+- [ ] Visit where the Buddha was born and enlighten
+- [ ] Visit the Northern Light
+- [ ] Join a cross-ocean linear: Pacific and Atlantic
+- [ ] Travel around Europe
+- [ ] Visit North Korea, Myanmar, Palestine, Iran
+- [ ] Go from North to South Vietnam by either train/bike/motor-cycle or walk
+- [ ] Judo, blue belt
+- [ ] Visit Egyptian Pyramid
+- [ ] Fluent French
+- [ ] Fluent Mandarin
+- [ ] Fluent Korean
+- [ ] Read ([100 best books of all time](http://en.wikipedia.org/wiki/The_100_Best_Books_of_All_Time)[http://en.wikipedia.org/wiki/The_100_Best_Books_of_All_Time](http://en.wikipedia.org/wiki/The_100_Best_Books_of_All_Time)))
+- [ ] Found a primary school
+- [ ] Found a university, educate at least 5,000 talents per year
+- [ ] Write a novel with more than 10,000 readers
+- [ ] Write a poem book
+- [ ] Found an animation studio
+- [ ] Found a company that has existed for than 30 years and provides jobs for more than 100,000 people
+- [ ] Governor of a city or province
+- [ ] Own a farm larger than 10ha
+- [ ] Found green tech company, revenue > $100m / year
+- [ ] Found agriculture company, revenue > $100m / year 
+- [ ] Live in a zen place/monastery, like a monk for a few months
+- [ ] Fly a small air-plan
+- [ ] Visit Vatican
+- [ ] Found a public library, something similar to Edumall
+- [ ] Visit the Paracel Islands 
+- [ ] Climb fanxipan
+- [ ] Visit the great wall of China
+- [ ] Parachute
+- [ ] Ride a hot air balloon
+- [ ] Join an archaeology crew
+- [ ] Learn how to play guitar
+- [ ] Drunk so much that remember nothing
+- [ ] Pace 6 Marathon
+- [ ] Fluent Japanese
+- [ ] Finish a half-marathon
