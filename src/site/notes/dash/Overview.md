@@ -52,6 +52,7 @@ There are three big components in DASH system:
 Let's go through each part:
 
 ## Entity
+---
 To create/publish a workflow, you must create an organisation and set `authority` for the organisation. The authority can be an individual public key, a Realm DAO, or a [Squad](squads.so). A workflow can only be created through a passed proposal if the authority is a Realm DAO or Squad.
 
 ![dash_entity.png](/img/user/dash/images/dash_entity.png)
@@ -59,6 +60,15 @@ To create/publish a workflow, you must create an organisation and set `authority
 Each user will hold a `User PDA` to store the number of missions they have created. This PDA would serve the convenience of listing all users' missions, saving time on paginating mission listing on the front end.
 
 ## Workflow
+--- 
+Each workflow will refer to the starting `checkpoint`; each checkpoint will hold the reference to its children.
+
+![dash_workflow.png](/img/user/dash/images/dash_workflow.png)
 
 ## Mission
+---
+A `Mission` will be initiated from a `Workflow`, hold its `current_vote_data`.
+
+![dash_mission.png](/img/user/dash/images/dash_mission.png)
+
 
