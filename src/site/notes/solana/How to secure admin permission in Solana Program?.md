@@ -12,6 +12,8 @@ The Program account is the account of which `program.key()` is the address to id
 The ProgramData account is the account that holds the Program's executable data.
 Buffers are accounts that hold chunks of data to write into ProgramData to by-pass the 1232 limit of each Solana Transaction.
 
+Read in detail [here](https://www.notion.so/jstarry/Program-deploys-29780c48794c47308d5f138074dd9838)
+
 ## Secure admin permission in a Solana Program
 
 Each Solana program has an `upgrade_authority_address`, which can change the content of ProgramData. Once the program is stable, we can set the `upgrade_authority_address` to `null` to make it immutable. Do this through `BPFLoaderUpgradeab1e11111111111111111111111` program.
