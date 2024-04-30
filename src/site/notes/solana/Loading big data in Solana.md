@@ -83,6 +83,11 @@ pub struct GameState {
 
 1. What do `InitSpace` & `max_len` do?
    Look at this: https://docs.rs/anchor-derive-space/0.30.0/src/anchor_derive_space/lib.rs.html#39. Need an experiment to see the size of the Account.
+   Update: 30 Apr -> yes, it allocate the data accordingly. If max_len is 200, then it takes 200 bytes.
    With `derive_init_space`, it returns `TokenStream(expanded)`, where `expanded` is the number of bytes. This function seems to collect and rent out memory immediately.
 2. Is it possible to create a fixed-length string in Solana?
    Possibly, use a [u8, 100] to store a 100 characters string, each character occupying 1 byte
+
+In a nutshell:
+
+![Screenshot 2024-04-30 at 19.26.11.png](/img/user/images/Screenshot%202024-04-30%20at%2019.26.11.png)
