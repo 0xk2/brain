@@ -17,3 +17,21 @@ Three important check:
 - Owner check ~> ran by runtime environment
 - Signer check -> ran by runtime environment
 - Authority check -> custom data field to make sure whoever write data has sufficient permission
+
+```
+#[account]
+pub struct UserAccount {
+	pub user: PubKey,
+	pub data: [u8; 200]
+}
+
+#[derive(Accounts)]
+pub struct ChangeAccount<'info> {
+	#[account(mut, has_one = user)]
+	pub uaccount: Account<'info, UserAccount>,
+	#[account(mut)]
+	pub user: PubKey,
+}
+```
+
+The check is: `uaccount.user == user` 
